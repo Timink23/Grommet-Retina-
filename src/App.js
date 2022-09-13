@@ -174,7 +174,7 @@ const arr = [{
 }]
 
 //CURRENTLY 8 VALUES IN EACH.
-
+//is there a way for me to put class app in this forloop and just have each value[x]. input for each round.
 
 const data = []
 Object.values(arr).forEach(value => {
